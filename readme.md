@@ -3,9 +3,9 @@
 [My flake config file repo](https://github.com/samiulbasirfahim/flakes)
 
 Desktop
-![image](./flakes/pictures/screenshot_1673331928.png)
+![image](./Pictures/assets/screenshot_1673331928.png)
 Terminal + vscode
-![image](./flakes/pictures/screenshot_1673344815.png)
+![image](./Pictures/assets/screenshot_1673344815.png)
 
 
 ## File structure 🚧
