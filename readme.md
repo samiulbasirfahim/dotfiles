@@ -1,6 +1,6 @@
 # 🌸 dotfiles-nixos
 
-[My others config file repo](https://github.com/samiulbasirfahim/dotfiles)
+[My flake config file repo](https://github.com/samiulbasirfahim/flakes)
 
 Desktop
 ![image](./pictures/screenshot_1673331928.png)
